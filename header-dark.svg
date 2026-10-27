@@ -1,0 +1,39 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1120 308" role="img" aria-labelledby="title description">
+  <title id="title">Amirali Rasouli — AI Engineer / NLP Specialist</title>
+  <desc id="description">LLM applications, retrieval and backend systems. A minimal technical graphic accompanies the name.</desc>
+  <defs>
+    <linearGradient id="edge" x1="0" y1="0" x2="1" y2="0"><stop stop-color="#5eead4"/><stop offset="1" stop-color="#0d1622"/></linearGradient>
+  </defs>
+  <rect width="1120" height="308" rx="18" fill="#0d1622"/>
+  <rect x="0.5" y="0.5" width="1119" height="307" rx="17.5" fill="none" stroke="#2b4558"/>
+  <path d="M50 51H112" stroke="#5eead4" stroke-width="3" stroke-linecap="round"/>
+  <text x="50" y="86" fill="#5eead4" font-family="Arial, Helvetica, sans-serif" font-size="13" font-weight="700" letter-spacing="2.2">AI ENGINEERING / PERSIAN NLP</text>
+  <text x="46" y="154" fill="#edf5f9" font-family="Arial, Helvetica, sans-serif" font-size="57" font-weight="700" letter-spacing="-1.8">Amirali Rasouli</text>
+  <text x="50" y="197" fill="#edf5f9" font-family="Arial, Helvetica, sans-serif" font-size="23">AI Engineer <tspan fill="#9eb0c5">/</tspan> NLP Specialist</text>
+  <text x="50" y="248" fill="#9eb0c5" font-family="Arial, Helvetica, sans-serif" font-size="17">LLM applications, retrieval &amp; backend systems.</text>
+  <g fill="none" stroke="#7390a1" stroke-width="0.7" opacity="0.10"><path d="M762 36V272"/><path d="M794 36V272"/><path d="M826 36V272"/><path d="M858 36V272"/><path d="M890 36V272"/><path d="M922 36V272"/><path d="M954 36V272"/><path d="M986 36V272"/><path d="M1018 36V272"/><path d="M1050 36V272"/><path d="M1082 36V272"/><path d="M1114 36V272"/><path d="M752 48H1088"/><path d="M752 80H1088"/><path d="M752 112H1088"/><path d="M752 144H1088"/><path d="M752 176H1088"/><path d="M752 208H1088"/><path d="M752 240H1088"/><path d="M752 272H1088"/></g>
+  <g fill="none" stroke="#2b4558" stroke-width="1.5">
+    <path d="M790 96H850Q862 96 862 108V142"/>
+    <path d="M790 208H850Q862 208 862 196V176"/>
+    <path d="M896 159H938Q952 159 952 145V96H994"/>
+    <path d="M896 159H938Q952 159 952 173V208H994"/>
+  </g>
+  <g fill="#132332" stroke="#2b4558">
+    <rect x="756" y="76" width="56" height="40" rx="9"/>
+    <rect x="756" y="188" width="56" height="40" rx="9"/>
+    <rect x="994" y="76" width="56" height="40" rx="9"/>
+    <rect x="994" y="188" width="56" height="40" rx="9"/>
+  </g>
+  <g fill="none" stroke="#9eb0c5" stroke-width="1.8" stroke-linecap="round">
+    <path d="M774 91H794M774 97H788M774 103H792"/>
+    <path d="M775 203L770 208L775 213M793 203L798 208L793 213M786 201L782 215"/>
+    <path d="M1012 90H1032M1012 97H1028M1012 104H1024"/>
+    <path d="M1013 208L1019 214L1032 201"/>
+  </g>
+  <rect x="834" y="130" width="62" height="58" rx="15" fill="#132332" stroke="#5eead4" stroke-width="1.7"/>
+  <g fill="none" stroke="#5eead4" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M852 150L848 159L852 168M878 150L882 159L878 168M869 148L861 170"/>
+  </g>
+  <g fill="#5eead4"><circle cx="862" cy="120" r="3"/><circle cx="906" cy="159" r="3"/><circle cx="824" cy="96" r="2.5"/><circle cx="982" cy="208" r="2.5"/></g>
+  <path d="M756 257H1050" stroke="url(#edge)" stroke-width="1"/>
+</svg>

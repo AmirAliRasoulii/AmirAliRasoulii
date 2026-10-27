@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 298" role="img" aria-labelledby="title description">
+<title id="title">Multi-Judge Offense Pipeline</title><desc id="description">Persian and English offensive-language annotation with four independent LLM judges, consensus resolution and auditable human adjudication.</desc>
+<g font-family="Arial, Helvetica, sans-serif" fill="#edf5f9">
+<rect x="0.5" y="0.5" width="599" height="297" rx="20" fill="#0d1622" stroke="#294253"/><text x="32" y="40" font-size="17" font-weight="700" fill="#5eead4" letter-spacing="1.4">OPEN SOURCE / LLM EVALUATION</text><text x="32" y="94" font-size="37" font-weight="700" letter-spacing="-0.6">Multi-Judge Offense</text><text x="32" y="136" font-size="37" font-weight="700" letter-spacing="-0.6">Pipeline</text><text x="32" y="180" font-size="24" font-weight="400" fill="#a4b6c8">Independent models. Auditable labels.</text><text x="32" y="231" font-size="21" font-weight="400" fill="#edf5f9">4 judges · Consensus · Human review</text><text x="32" y="270" font-size="20" font-weight="600" fill="#5eead4">Explore repository →</text>
+</g></svg>
